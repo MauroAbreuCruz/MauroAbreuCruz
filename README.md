@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MauroAbreuCruz
 - 👀 I’m interested in development.
-- 🌱 I’m currently learning JavaScript, HTML e CSS.
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 📫 Call me on whatsapp 74 981263904
 
 <!---
