@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MauroAbreuCruz
+- 👋 Hi, I’m Mauro Cruz.
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 📫 Call me on whatsapp 74 981263904
